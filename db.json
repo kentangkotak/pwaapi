@@ -1,0 +1,25 @@
+# pwaapi
+{
+  "products"; [
+    {"id":1,"name":"Lesser masked weaver","category":"Mauv"},
+    {"id":2,"name":"Brown capuchin","category":"Fuscia"},
+    {"id":3,"name":"Pale-throated three-toed sloth","category":"Khaki"},
+    {"id":4,"name":"Blue racer","category":"Mauv"},
+    {"id":5,"name":"White-rumped vulture","category":"Purple"},
+    {"id":6,"name":"Crab, red lava","category":"Orange"},
+    {"id":7,"name":"Woolly-necked stork","category":"Violet"},
+    {"id":8,"name":"Rose-ringed parakeet","category":"Turquoise"},
+    {"id":9,"name":"Lory, rainbow","category":"Turquoise"},
+    {"id":10,"name":"Blue-footed booby","category":"Blue"},
+    {"id":11,"name":"Tern, royal","category":"Purple"},
+    {"id":12,"name":"Banded mongoose","category":"Green"},
+    {"id":13,"name":"African black crake","category":"Purple"},
+    {"id":14,"name":"Slender-billed cockatoo","category":"Purple"},
+    {"id":15,"name":"Hyena, brown","category":"Crimson"},
+    {"id":16,"name":"Camel, dromedary","category":"Purple"},
+    {"id":17,"name":"Dove, ring","category":"Maroon"},
+    {"id":18,"name":"Common pheasant","category":"Red"},
+    {"id":19,"name":"Bird, pied butcher","category":"Indigo"},
+    {"id":20,"name":"Dove, little brown","category":"Blue"}
+  ]
+ }
