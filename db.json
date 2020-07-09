@@ -1,6 +1,6 @@
 # pwaapi
 {
-  "products"; [
+  "products": [
     {"id":1,"name":"Lesser masked weaver","category":"Mauv"},
     {"id":2,"name":"Brown capuchin","category":"Fuscia"},
     {"id":3,"name":"Pale-throated three-toed sloth","category":"Khaki"},
